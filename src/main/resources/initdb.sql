@@ -1,0 +1,10 @@
+INSERT INTO phone_entity (name, brand_name, available) VALUES ('Samsung Galaxy S9','Samsung',true);
+INSERT INTO phone_entity (name, brand_name, available) VALUES ('Samsung Galaxy S8','Samsung',true);
+INSERT INTO phone_entity (name, brand_name, available) VALUES ('Samsung Galaxy S8','Samsung',true);
+INSERT INTO phone_entity (name, brand_name, available) VALUES ('Motorola Nexus 6','Motorola',true);
+INSERT INTO phone_entity (name, brand_name, available) VALUES ('Oneplus 9', '',true);
+INSERT INTO phone_entity (name, brand_name, available) VALUES ('Apple iPhone 13','Apple',true);
+INSERT INTO phone_entity (name, brand_name, available) VALUES ('Apple iPhone 12','Apple',true);
+INSERT INTO phone_entity (name, brand_name, available) VALUES ('Apple iPhone 11','Apple',true);
+INSERT INTO phone_entity (name, brand_name, available) VALUES ('iPhone X','Apple',true);
+INSERT INTO phone_entity (name, brand_name, available) VALUES ('Nokia 3310','Nokia',true);
