@@ -6,8 +6,8 @@ import org.springframework.cloud.openfeign.EnableFeignClients
 
 @SpringBootApplication
 @EnableFeignClients
-class BackendChallengeApplication
+class BeamtrailBackendChallengeApplication
 
 fun main(args: Array<String>) {
-	runApplication<BackendChallengeApplication>(*args)
+	runApplication<BeamtrailBackendChallengeApplication>(*args)
 }

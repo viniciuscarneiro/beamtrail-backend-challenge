@@ -1,1 +1,1 @@
-rootProject.name = "backend-challenge"
+rootProject.name = "beamtrail-backend-challenge"
